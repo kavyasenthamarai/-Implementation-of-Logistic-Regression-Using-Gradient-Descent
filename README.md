@@ -113,9 +113,44 @@ def predict(theta,X):
   
 np.mean(predict(res.x,X)==y)
 */
-
+```
 ## Output:
-![logistic regression using gradient descent](sam.png)
+## Array Value of x:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/d9fabec3-e193-4df5-93a7-9f6f0557d4dd)
+
+## Array Value of y:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/6bc5876e-aa56-4090-9362-31c50ac74f01)
+
+## Exam 1 - score graph:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/b4015f6a-3eb8-4118-b429-d38665954305)
+
+
+## Sigmoid function graph:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/ed30dc18-b7b3-48d5-815b-5ae343c78505)
+
+
+## X_train_grad value:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/2c643f4a-61dd-4aeb-aa56-87b43b4a2a78)
+
+
+## Y_train_grad value:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/0a990105-4ab1-4a0c-8eb2-3cdb32c58668)
+
+
+## Print res.x:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/6b5f8226-7ae2-4a72-9789-72b77fb481e6)
+
+
+## Decision boundary - graph for exam score:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/97cefd0a-2527-43e2-8677-f8ab3ce3bc3c)
+
+
+## Proability value:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/e776f1a7-d997-478b-922a-3776f3143a90)
+
+
+## Prediction value of mean:
+![image](https://github.com/kavyasenthamarai/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118668727/c45d2190-572b-46c1-8793-534a5845d5dc)
 
 
 ## Result:
